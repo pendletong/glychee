@@ -8,7 +8,7 @@ repository = { type = "github", user = "inoas", repo = "glychee" }
 target = "erlang"
 
 [dependencies]
-benchee = "~> 1.3"
+benchee = "~> 1.5"
 
 [documentation]
 pages = [
